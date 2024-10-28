@@ -1,9 +1,0 @@
-monkey
-lion
-pig
-horse
-
-banana
-peach
-apple
-watermelon
